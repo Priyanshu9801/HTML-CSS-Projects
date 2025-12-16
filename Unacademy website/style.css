@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    font-family: 'Poppins';
+    height: 100%;
+    width: 100%;
+    color: rgb(62, 59, 72);
+}
+
+header{
+    width: 100%;
+    height: 73px;
+    background-color: rgba(252, 252, 252, 0.966);
+    border-bottom: 1px solid rgb(230, 227, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 638px;
+}
+
+#logo{
+    height: 100%;
+    color: blue;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 32px;
+}
+
+#logo p{
+    font-size: 22px;
+}
+
+#logot1{
+    font-weight: normal;
+}
+
+#logot2{
+    color: rgb(33, 147, 185);
+}
+
+#navright{
+    margin-left: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+#gift{
+    width: 38px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid rgb(230, 227, 227);
+}
+
+#gift:hover{
+    background-color: rgb(248, 245, 245);
+}
+
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(62, 59, 72);
+    font-size: 14px;
+    font-weight: 420;
+    height: 40px;
+    width: 105px;
+    border: 1px solid rgb(62, 59, 72);
+    border-radius: 7px;
+}
+
+#login:hover{
+    background-color: rgb(246, 246, 248);
+}
+
+#join{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(62, 59, 72);
+    color: white;
+    font-size: 14px;
+    font-weight: 420;
+    height: 40px;
+    width: 105px;
+    border: 1px solid rgb(62, 59, 72);
+    border-radius: 7px;
+}
+
+#join:hover{
+    background-color: rgb(58, 55, 55);
+}
+
+#page1{
+    height: 90vh;
+    background-color: white;
+}
+
+#content{
+    position: absolute;
+    top: 24%;
+    left: 13%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#number{
+    width: 37vw;
+    height: 45vh;
+    background-color: white;
+    margin-right: 70px;
+}
+
+#number h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.uppertxt{
+    display: inline;
+    font-weight: bold;
+}
+
+.greentxt{
+    display: inline;
+    font-weight: bold;
+    color: rgb(42, 195, 42);;
+}
+
+input{
+    width: 35vw;
+    height: 50px;
+    border: 0.0001px solid rgb(62, 59, 72);
+    margin-top: 25px;
+    border-radius: 7px;
+    padding-left: 20px;
+}
+
+input::placeholder{
+    font-family: poppins;
+    color: rgb(147, 145, 145);
+}
+
+#graytxt{
+    margin-top: 8px;
+    display: block;
+    font-weight: normal;
+    font-size: small;
+    color: rgb(147, 145, 145);
+}
+
+#bigjoin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 23px;
+    width: 35vw;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(62, 59, 72);
+    border-radius: 7px;
+}
+
+#bigjoin:hover{
+    background-color: rgb(58, 55, 55);
+}
+
+#number h2{
+    margin-top: 97px;
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 4px;
+}
