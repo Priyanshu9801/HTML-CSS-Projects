@@ -1,6 +1,20 @@
-# HTML-CSS-Projects
+}
 
-Created mini-projects to learn the basics of HTML and CSS.
-<br> Created a game of shapes with a square, diamond and a circle and each shape shows a unique color when the mouse is placed on it.
-<br> Created a game of cards where 4 cards are placed on top of each other and the one on which the mouse is hovering becomes visible.
-<br> Created a single page website UI of Unacademy website.
+# HTML & CSS Projects
+
+A collection of mini projects built to strengthen my fundamentals in **HTML** and **CSS** through hands-on practice.
+
+### 📌 Projects Included
+
+* **Interactive Shapes Game**
+  A visual game featuring a square, diamond, and circle, where each shape displays a unique color when hovered over.
+
+* **Hover-Based Card Reveal Game**
+  A stack of four overlapping cards in which the card under the cursor becomes visible on hover.
+
+* **Unacademy Website UI (Single Page)**
+  A single-page UI clone inspired by the Unacademy website, focusing on layout, styling, and responsiveness.
+
+---
+
+These projects helped me gain practical experience with **layouts, hover effects, positioning, and basic UI design** using only HTML and CSS.
