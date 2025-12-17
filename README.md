@@ -1,5 +1,3 @@
-}
-
 # HTML & CSS Projects
 
 A collection of mini projects built to strengthen my fundamentals in **HTML** and **CSS** through hands-on practice.
